@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia Medical Center",
+  "description": "Exceptional Care. Extraordinary Lives. Premium modern healthcare and clinical excellence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
